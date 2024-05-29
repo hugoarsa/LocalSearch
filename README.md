@@ -63,25 +63,5 @@ Evaluamos la efectividad de las soluciones durante las horas punta, cuando la de
 
 Determinamos el número óptimo de furgonetas necesario para cubrir la demanda de bicicletas en la ciudad de manera eficiente.
 
-## Competencia de Trabajo en Equipo: Trabajo de Innovación
-
-### Descripción del Tema
-
-El trabajo en equipo se centró en la innovación de métodos y algoritmos para mejorar la distribución de bicicletas.
-
-### Reparto del Trabajo
-
-Cada miembro del equipo tuvo responsabilidades específicas, desde la implementación de algoritmos hasta la realización de experimentos y análisis de resultados.
-
-### Lista de Referencias
-
-Se incluyeron referencias a trabajos previos y estudios relevantes que respaldaron nuestras decisiones metodológicas.
-
-### Dificultades para Recolectar Información
-
-Identificamos desafíos en la recopilación de información precisa debido a la disponibilidad limitada y la naturaleza evolutiva del campo de investigación.
-
----
-
 **Nota**: Para más detalles sobre la implementación y los resultados de los experimentos, consulte el documento completo adjunto.
 
